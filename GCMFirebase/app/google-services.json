@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "239772683733",
+    "firebase_url": "https://proven-dream-169414.firebaseio.com",
+    "project_id": "proven-dream-169414",
+    "storage_bucket": "proven-dream-169414.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239772683733:android:3138f9b644c417ee",
+        "android_client_info": {
+          "package_name": "com.pas.gcmfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239772683733-nttoppm5hlqdtl898ibnej49g62li54p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pas.gcmfirebase",
+            "certificate_hash": "6d09cb144014c5ba08067f4f064b7ab2922f8015"
+          }
+        },
+        {
+          "client_id": "239772683733-jq0vc8s9te9int332sf7ms4iacl4jd0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPbj5cFzdQQbAB6YaDugHY1DDeFkCo2Ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239772683733-jq0vc8s9te9int332sf7ms4iacl4jd0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
